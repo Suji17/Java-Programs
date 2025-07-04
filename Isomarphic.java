@@ -1,5 +1,5 @@
-package Java_Programs;
-import java.util.*;
+//package Java_Programs;
+import java.util.Scanner;
 public class Isomarphic {
 	public static void main(String[] args) {
 		Scanner sc=new Scanner(System.in);
